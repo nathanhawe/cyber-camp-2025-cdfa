@@ -1,0 +1,4 @@
+Agatha: Name, Address, DOB, SSN
+Agatha: John Doe,  1234 North St., 2/24/2000, 123-00-8529
+Agatha: Jane Smith, 2832 South St., 9/27/1980, 123-00-1286
+Agatha: Sandy Herrera, 89 East Blvd, 12/24/1965, 123-00-0089
